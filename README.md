@@ -13,7 +13,7 @@ This repository contains the code and resources for training an AI-powered home 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai-powered-home-security.git
+   git clone https://github.com/Goketech/ai-powered-home-security.git
    cd ai-powered-home-security
    ```
 2. **Open the Colab Notebook:**
